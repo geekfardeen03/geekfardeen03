@@ -1,6 +1,6 @@
 
 # Hi, I'm Fardeen Khan   
-I Build and design system , I might be your company saviour 
+I Build and design system , 
 
 ## 💻 Tech Stack
 
